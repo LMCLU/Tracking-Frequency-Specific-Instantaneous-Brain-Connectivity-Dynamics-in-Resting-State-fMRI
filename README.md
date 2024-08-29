@@ -17,17 +17,17 @@ functions (IMFs) and define instantaneous phase, amplitude, and
 frequency for each IMF. Therefore, we apply HHT on fMRI to achieve
 adaptive frequency decomposition and high temporal resolution
 synchronization measurements based on instantaneous phase difference.
-![image](https://github.com/user-attachments/assets/502ff7e1-2b10-416f-9dcb-b205a48fb31a)
-Fig1. example of using HHT to process fMRI signals
-![image](https://github.com/user-attachments/assets/5531cd14-4314-4cb7-9ee4-858f7a798f57)
-Fig2. HWF distribution of IMFs produced produced by HHT process
-only if center frequency located between 0.01Hz and 0.1 Hz will we reserve the IMFs  
-![image](https://github.com/user-attachments/assets/5eec1993-c659-4794-8b10-a2bfef564826)
-Fig3. Based on clustering method, we identify 5 different feature brain states in each IMF.
-![image](https://github.com/user-attachments/assets/d9683de3-c9aa-4981-bd86-ea3ea86c8a3d)
-4.a IMF1 
-![image](https://github.com/user-attachments/assets/75b24402-48be-4c64-a43a-8d8997fd234a)
-4.b IMF2
-![image](https://github.com/user-attachments/assets/d0e5c9cd-7c39-4293-a6b4-0950419f8654)
-4.c IMF3
-Fig4. Projecting 246 ROI Atlas to yeo7 networks to visualize the funtional different brain states.
+![image](https://github.com/user-attachments/assets/502ff7e1-2b10-416f-9dcb-b205a48fb31a)<br />
+Fig1. example of using HHT to process fMRI signals<br />
+![image](https://github.com/user-attachments/assets/5531cd14-4314-4cb7-9ee4-858f7a798f57)<br />
+Fig2. HWF distribution of IMFs produced produced by HHT process<br />
+only if center frequency located between 0.01Hz and 0.1 Hz will we reserve the IMFs  <br />
+![image](https://github.com/user-attachments/assets/5eec1993-c659-4794-8b10-a2bfef564826)<br />
+Fig3. Based on clustering method, we identify 5 different feature brain states in each IMF.<br />
+![image](https://github.com/user-attachments/assets/d9683de3-c9aa-4981-bd86-ea3ea86c8a3d)<br />
+4.a IMF1 <br />
+![image](https://github.com/user-attachments/assets/75b24402-48be-4c64-a43a-8d8997fd234a)<br />
+4.b IMF2<br />
+![image](https://github.com/user-attachments/assets/d0e5c9cd-7c39-4293-a6b4-0950419f8654)<br />
+4.c IMF3<br />
+Fig4. Projecting 246 ROI Atlas to yeo7 networks to visualize the funtional different brain states.<br />
